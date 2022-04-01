@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 /*
 func HelloWorld() string {
 	//Insert your code here
@@ -13,5 +11,5 @@ func HelloWorld() string {
 
 func main() {
 	HelloWorld()
-	fmt.Println("Hello world from Go !")
+	//fmt.Println("Hello other world from Go !")
 }
